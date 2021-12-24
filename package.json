@@ -1,0 +1,11 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ShubhamVerma1811/type-challenges-solutions.git",
+  "author": "Shubham Verma <25576658+ShubhamVerma1811@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
